@@ -50,22 +50,22 @@ AutoDrivingRobot/
 
 ---
 
-## 🔌 Hardware Components
+# 🔌 Hardware Components
 
-- Arduino Uno
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/79ac66c8-53ee-4aa3-aee3-e0bf4d8c516c" />
-- Ultrasonic Sensor (HC-SR04)
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/ca69fb8e-2dfb-4540-8233-05e256d0059d" />
-- IR Line Sensors
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/635e110a-a274-460e-87ba-953a050c160c" />
-- Servo Motor
-- L298N Motor Driver
-- 2x DC Motors
-- Battery Pack
-- (Optional) Bluetooth Module or LCD
+This project utilizes the following hardware components:
+
+| Component | Image | Description |
+|---|---|---|
+| **Arduino Uno** | <img width="250" alt="Arduino Uno" src="https://github.com/user-attachments/assets/79ac66c8-53ee-4aa3-aee3-e0bf4d8c516c"> | The central microcontroller for processing sensor data and controlling actuators. |
+| **Ultrasonic Sensor (HC-SR04)** | <img width="250" alt="Ultrasonic Sensor (HC-SR04)" src="https://github.com/user-attachments/assets/ca69fb8e-2dfb-4540-8233-05e256d0059d"> | Used for measuring distances and obstacle detection. |
+| **IR Line Sensors** | <img width="250" alt="IR Line Sensors" src="https://github.com/user-attachments/assets/635e110a-a274-460e-87ba-953a050c160c"> | Essential for line following and edge detection. |
+| **Servo Motor** | *(No image provided)* | A precision motor used for controlling rotational position, often for steering or sensor positioning. |
+| **L298N Motor Driver** | *(No image provided)* | An integrated circuit that allows the Arduino to control the speed and direction of DC motors. |
+| **2x DC Motors** | *(No image provided)* | Provide the propulsion for the robot or system. |
+| **Battery Pack** | *(No image provided)* | Supplies power to all the electronic components. |
+| **(Optional) Bluetooth Module or LCD** | *(No image provided)* | **Bluetooth Module:** For wireless communication and control. **LCD:** For displaying real-time information. |
 
 ---
-
 ## 📦 How to Use
 
 1. **Install Arduino IDE**
