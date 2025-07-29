@@ -4,15 +4,22 @@ This is an Arduino-based self-driving robot project that includes basic driving 
 
 ## 📂 Project Structure
 
-AutoDrivingRobot/
-├── autoDrivingRobot_init.ino # Initialization and basic drive logic
-├── AutoDriveRobot_LineTrace.ino # Line tracing functionality
-├── AutoDriveRobot_ObstacleDetect.ino # Ultrasonic obstacle detection driving
-├── obstacle.ino # Obstacle detection test
-├── AutoDrivingRobot_AI.ino # AI-based driving logic
-├── BP_MachineLearning.zip # Backpropagation-based machine learning script
-└── Arduino IDE.lnk # Shortcut to Arduino IDE
+-----
 
+## 📂 Project Structure
+
+Here's the project structure for your AutoDrivingRobot, formatted for a GitHub README:
+
+```
+AutoDrivingRobot/
+├── autoDrivingRobot_init.ino           # Initialization and basic drive logic
+├── AutoDriveRobot_LineTrace.ino        # Line tracing functionality
+├── AutoDriveRobot_ObstacleDetect.ino   # Ultrasonic obstacle detection driving
+├── obstacle.ino                        # Obstacle detection test
+├── AutoDrivingRobot_AI.ino             # AI-based driving logic
+├── BP_MachineLearning.zip              # Backpropagation-based machine learning script
+└── Arduino IDE.lnk                     # Shortcut to Arduino IDE
+```
 
 ---
 
