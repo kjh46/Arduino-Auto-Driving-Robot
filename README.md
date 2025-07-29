@@ -53,8 +53,11 @@ AutoDrivingRobot/
 ## 🔌 Hardware Components
 
 - Arduino Uno
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/79ac66c8-53ee-4aa3-aee3-e0bf4d8c516c" />
 - Ultrasonic Sensor (HC-SR04)
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/ca69fb8e-2dfb-4540-8233-05e256d0059d" />
 - IR Line Sensors
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/635e110a-a274-460e-87ba-953a050c160c" />
 - Servo Motor
 - L298N Motor Driver
 - 2x DC Motors
