@@ -85,7 +85,7 @@ AutoDrivingRobot/
 
 ## ✍️ Author
 
-- **Juhyung Kim** – Project planning, implementation, and code design
+- **JuHyeong Kim** – Embedded Developer (Vision/Sensors)
 
 ---
 
